@@ -1,0 +1,4 @@
+#Sat May 07 13:00:55 COT 2022
+base.0=D\:\\Universidad\\Android\\PokeMVVM-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

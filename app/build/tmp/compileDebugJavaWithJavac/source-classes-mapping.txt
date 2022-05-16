@@ -1,0 +1,2 @@
+com/alonsodelcid/pokemvvm/BuildConfig.java
+ com.alonsodelcid.pokemvvm.BuildConfig
