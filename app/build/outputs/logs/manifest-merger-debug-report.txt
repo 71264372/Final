@@ -44,7 +44,7 @@ INJECTED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifes
 INJECTED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:2:1-24:12
 INJECTED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:3:5-40
+		ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -93,10 +93,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\he
 		ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:13:9-46
-activity#com.alonsodelcid.pokemvvm.ui.pokelist.PokeListActivity
+activity#poke_api_final.alexis.pokemvvm.ui.pokelist.PokeListActivity
 ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:14:19-63
+		ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:14:19-93
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
@@ -107,10 +107,10 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:18:27-74
-activity#com.alonsodelcid.pokemvvm.ui.pokeinfo.PokeInfoActivity
-ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:21:9-66
+activity#poke_api_final.alexis.pokemvvm.ui.pokeinfo.PokeInfoActivity
+ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:21:9-96
 	android:name
-		ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:21:19-63
+		ADDED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:21:19-93
 uses-sdk
 INJECTED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml

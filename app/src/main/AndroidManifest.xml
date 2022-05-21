@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.alonsodelcid.pokemvvm">
+    package="com.alexis_mira.pokemvvm">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
@@ -11,14 +11,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.PokeMVVM">
-        <activity android:name=".ui.pokelist.PokeListActivity">
+        <activity android:name="poke_api_final.alexis.pokemvvm.ui.pokelist.PokeListActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.pokeinfo.PokeInfoActivity" />
+        <activity android:name="poke_api_final.alexis.pokemvvm.ui.pokeinfo.PokeInfoActivity" />
     </application>
 
 </manifest>

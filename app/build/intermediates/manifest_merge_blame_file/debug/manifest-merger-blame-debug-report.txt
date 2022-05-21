@@ -29,37 +29,36 @@
 19-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:11:9-54
 20        android:supportsRtl="true"
 20-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:12:9-35
-21        android:testOnly="true"
-22        android:theme="@style/Theme.PokeMVVM" >
-22-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:13:9-46
-23        <activity android:name="com.alonsodelcid.pokemvvm.ui.pokelist.PokeListActivity" >
-23-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:14:9-20:20
-23-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:14:19-63
-24            <intent-filter>
-24-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:15:13-19:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:16:17-69
-25-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:16:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:18:17-77
-27-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:18:27-74
-28            </intent-filter>
-29        </activity>
-30        <activity android:name="com.alonsodelcid.pokemvvm.ui.pokeinfo.PokeInfoActivity" />
-30-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:21:9-66
-30-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:21:19-63
-31
-32        <provider
-32-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\henao\.gradle\caches\transforms-2\files-2.1\70b236710b9628ceddcd9ce5da88b56a\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
-33            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-33-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\henao\.gradle\caches\transforms-2\files-2.1\70b236710b9628ceddcd9ce5da88b56a\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
-34            android:authorities="com.alonsodelcid.pokemvvm.lifecycle-process"
-34-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\henao\.gradle\caches\transforms-2\files-2.1\70b236710b9628ceddcd9ce5da88b56a\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
-35            android:exported="false"
-35-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\henao\.gradle\caches\transforms-2\files-2.1\70b236710b9628ceddcd9ce5da88b56a\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
-36            android:multiprocess="true" />
-36-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\henao\.gradle\caches\transforms-2\files-2.1\70b236710b9628ceddcd9ce5da88b56a\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
-37    </application>
-38
-39</manifest>
+21        android:theme="@style/Theme.PokeMVVM" >
+21-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:13:9-46
+22        <activity android:name="poke_api_final.alexis.pokemvvm.ui.pokelist.PokeListActivity" >
+22-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:14:9-20:20
+22-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:14:19-93
+23            <intent-filter>
+23-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:15:13-19:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:16:17-69
+24-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:16:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:18:17-77
+26-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:18:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity android:name="poke_api_final.alexis.pokemvvm.ui.pokeinfo.PokeInfoActivity" />
+29-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:21:9-96
+29-->D:\Universidad\Android\PokeMVVM-master\app\src\main\AndroidManifest.xml:21:19-93
+30
+31        <provider
+31-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\henao\.gradle\caches\transforms-2\files-2.1\70b236710b9628ceddcd9ce5da88b56a\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+32            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+32-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\henao\.gradle\caches\transforms-2\files-2.1\70b236710b9628ceddcd9ce5da88b56a\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+33            android:authorities="com.alonsodelcid.pokemvvm.lifecycle-process"
+33-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\henao\.gradle\caches\transforms-2\files-2.1\70b236710b9628ceddcd9ce5da88b56a\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+34            android:exported="false"
+34-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\henao\.gradle\caches\transforms-2\files-2.1\70b236710b9628ceddcd9ce5da88b56a\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+35            android:multiprocess="true" />
+35-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\henao\.gradle\caches\transforms-2\files-2.1\70b236710b9628ceddcd9ce5da88b56a\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+36    </application>
+37
+38</manifest>
